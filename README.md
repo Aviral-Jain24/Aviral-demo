@@ -1,3 +1,3 @@
 # Aviral-demo
 This is my first Git repository. <br>
-Author - Aviral Jain
+Author - Aviral Jai
